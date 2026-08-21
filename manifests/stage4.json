@@ -1,0 +1,18 @@
+{
+  "stage": 4,
+  "timestamp": "2026-08-12T09:41:14.550909",
+  "year_basis": "pub_year",
+  "n_records": 7464,
+  "architectures": [
+    "CPU",
+    "GPU",
+    "TPU/NPU",
+    "FPGA/ASIC",
+    "Neuromorphic/Memristive",
+    "PIM/Memory-Centric",
+    "DPU/VPU/DSP",
+    "Analog/Photonic"
+  ],
+  "mean_labels_per_patent": 0.45444801714898175,
+  "unlabelled_pct": 59.61950696677385
+}

@@ -1,0 +1,201 @@
+publication_number,side,stage,is_ai_hardware,architecture
+US 2015/0256654 A1,excluded_far,development,N,General communication/data-processing system
+US 2024/0219979 A1,excluded_near,development,N,General-purpose host/connector hardware
+US 12405115 B2,retained,development,N,NONE
+US 10643126 B2,retained,development,Y,Neural-network memory controller / quantization hardware
+US 11861485 B2,retained,development,Y,Systolic array with MAC processing elements + data format converter
+US 9589209 B2,excluded_near,development,N,NONE
+US 6092159 A,excluded_near,development,N,General-purpose data cache / microprocessor memory architecture
+US 2025/0190880 A1,retained,development,N,NONE
+US 10032115 B2,excluded_near,development,N,Storage performance monitoring / predictive modeling system
+US 2018/0059886 A1,excluded_far,development,N,NONE
+US 2021/0150037 A1,retained,development,N,NONE
+US 2024/0126797 A1,excluded_near,development,N,NONE
+US 11580399 B2,retained,development,Y,Neural-network convolution engine / hardware convolution architecture
+US 11847069 B2,retained,development,Y,NPU + memory protection unit (MPU) + secure/non-secure memory architecture
+US 11962321 B2,retained,development,Y,Analog-stochastic neural computing / synaptic element array with in-memory parallel weight update
+US 9519857 B2,retained,development,Y,Physical neural network with distributed in-situ processing circuits + nanowire deformation sensors
+US 2022/0137647 A1,excluded_near,development,N,NONE
+US 2017/0357894 A1,retained,development,Y,CNN convolution data-packing / memory optimization architecture
+US 2020/0082269 A1,retained,development,N,NONE
+US 11188344 B2,retained,development,Y,Memory-based neural-network arithmetic architecture
+US 11461640 B2,retained,development,Y,Resistive Processing Unit (RPU) / analog in-memory neural computing
+US 2024/0070442 A1,retained,development,Y,Programmable neural-network activation-function hardware
+US 2023/0125074 A1,retained,development,Y,Resistive-memory Bayesian neural-network synapse circuit
+US 11153104 B2,retained,development,Y,RPU crossbar array / physically unclonable function (PUF)
+US 11429852 B2,retained,development,Y,CNN convolution accelerator with on-chip buffers and FIFO data path
+US 9685207 B2,excluded_near,development,N,Synchronous sequential latch array / master-slave latch architecture
+US 9020833 B2,excluded_far,development,N,NONE
+US 2024/0192847 A1,excluded_far,development,N,Data storage placement / heterogeneous storage architecture
+US 11222258 B2,retained,development,Y,Neural-network hardware circuit with multi-channel memory controllers and shared memory
+US 12032931 B2,retained,development,Y,Multi-core neural-network computing architecture / compiler mapping
+US 11328204 B2,retained,development,Y,NAND-array in-memory computing architecture for Binary Neural Networks (BNN)
+US 2022/0076109 A1,retained,development,N,NONE
+US 12141226 B2,retained,development,Y,Specialized Matrix Processor architecture / coordinated multi-matrix processor system
+US 11587203 B2,retained,development,Y,CNN hardware accelerator with configurable convolution operators / layer fusion architecture
+US 10366167 B2,excluded_near,development,N,NONE
+US 11195086 B2,retained,development,Y,Biological neuromorphic computing device / bio-hybrid neural architecture
+US 7337271 B2,excluded_near,development,N,Hierarchical memory metadata / prefetching architecture
+US 10872295 B1,retained,development,Y,Neural-network accelerator with bit-shift-based computation / FPGA LUT architecture
+US 11886969 B2,retained,development,N,Distributed deep-learning training / parameter-server architecture
+US 11656905 B2,retained,development,Y,Neural Processing Unit (NPU) with privilege-controlled resource delegation
+US 4961005 A,retained,development,Y,CMOS neural network circuit with programmable neuron interconnections
+US 12293275 B2,retained,development,Y,Fixed-point neural-network accelerator / GEMM-based convolution architecture
+US 9779528 B2,excluded_near,development,N,GPU geometry/tessellation rendering architecture
+US 2019/0180173 A1,retained,development,Y,AI logic circuit + embedded OTP MRAM memory architecture
+US 5297151 A,excluded_near,development,N,Random-pattern generator + shift-register test architecture
+US 11599779 B2,retained,development,Y,Approximate neural-network computing architecture with pipelined approximate multipliers
+US 4965721 A,excluded_near,development,N,NONE
+US 2024/0211210 A1,retained,development,Y,In-memory computing (IMC) architecture with self-timed memory-row processing
+US 11227212 B2,retained,development,Y,Neuromorphic / memory-based semiconductor device architecture
+US 9524092 B2,excluded_near,development,N,NONE
+US 5151874 A,retained,development,Y,Neural-network-based arithmetic circuit / fast-carry adder architecture
+US 2022/0155263 A1,retained,development,N,NONE
+US 2020/0026998 A1,retained,development,Y,CNN product-sum / MAC processing circuit with per-filter bit-width control
+US 2008/0288955 A1,excluded_far,development,N,NONE
+US 12106082 B2,retained,development,N,NONE
+US 11625587 B2,retained,development,Y,"AI integrated circuit with flash memory, DRAM, and multi-core memory controller"
+US 12326941 B2,excluded_far,development,N,NONE
+US 5664065 A,retained,development,Y,Pulse-coupled neural network / parallel neural-network recognition hardware
+US 2021/0042089 A1,retained,development,Y,Temporal-Carry-Deferring MAC (TCD-MAC) / Neural Processing Engine (TCD-NPE)
+US 2011/0128244 A1,excluded_near,development,N,NONE
+US 2017/0061278 A1,retained,development,Y,Neuromorphic / resistive-memory synapse array
+US 11501141 B2,retained,development,Y,Non-volatile memory-based neural network accelerator
+US 10679121 B2,retained,development,Y,Neuromorphic resistive-memory synapse architecture
+US 8004493 B2,excluded_near,development,N,NONE
+US 11651201 B2,retained,development,Y,In-memory computing (IMC) / memory-based accelerator
+US 11782680 B2,retained,development,Y,Analog/charge-domain MAC accelerator
+US 11887647 B2,retained,development,Y,Deep Learning Accelerator (DLA) + shared/on-chip memory + DMA
+US 2024/0037394 A1,retained,development,Y,Memory-based neural network accelerator
+US 11443438 B2,retained,development,N,NONE
+US 2020/0117994 A1,retained,development,N,NONE
+US 2025/0119062 A1,excluded_near,development,N,NONE
+US 2023/0217088 A1,excluded_near,development,N,NONE
+US 11287973 B2,excluded_near,development,N,NONE
+US 12054072 B2,excluded_far,development,N,NONE
+US 8626963 B2,excluded_near,development,N,NONE
+US 9811436 B2,excluded_near,development,N,NONE
+US 2024/0028235 A1,retained,development,Y,External-memory / local-processing architecture for neural-network acceleration
+US 7203779 B2,excluded_near,development,N,NONE
+US 2024/0249127 A1,retained,development,Y,NPU/NN processor + GPU programmable execution-unit architecture
+US 12293282 B2,retained,development,Y,
+US 11055604 B2,retained,development,Y,Hardware-assisted CNN weight quantization/compression architecture
+US 4390947 A,excluded_near,development,N,NONE
+US 2020/0012936 A1,retained,development,Y,Neural-network training/update accelerator architecture
+US 12354651 B2,retained,development,Y,Floating-gate memory-cell synapse array / analog in-memory computing
+US 2019/0248488 A1,excluded_far,development,N,NONE
+US 5093803 A,retained,development,Y,
+US 11983250 B2,excluded_near,development,N,NONE
+US 2025/0173434 A1,excluded_near,development,N,NONE
+US 8667188 B2,excluded_near,development,N,NONE
+US 11922995 B2,retained,development,Y,AI in-memory accelerator / memory-array computing architecture
+US 8463973 B2,excluded_near,development,N,NONE
+US 4486833 A,excluded_near,development,N,NONE
+US 2024/0020541 A1,retained,development,Y,AI training processor + memory architecture
+US 11954589 B2,retained,development,Y,CMOS artificial-neuron / neuromorphic circuit
+US 7627596 B2,excluded_far,development,N,NONE
+US 2025/0190520 A1,retained,development,Y,
+US 12417377 B2,retained,development,N,NONE
+US 11923341 B2,retained,development,Y,3D high-bandwidth memory + logic die / wafer-bonded architecture
+US 5438645 A,retained,development,Y,Neural-network hardware with neuron monitoring and adaptive weight circuitry
+US 11562217 B2,retained,development,Y,
+US 2022/0391747 A1,excluded_near,development,N,NONE
+US 11588735 B2,retained,development,Y,Distributed AI / edge neural-network processing architecture
+US 2009/0070297 A1,excluded_far,development,N,NONE
+US 11232349 B2,retained,development,Y,Analog neuromorphic IC / sparse analog multiplier array
+US 4739503 A,excluded_near,development,N,NONE
+US 10860924 B2,retained,development,Y,
+US 2024/0273346 A1,retained,development,Y,Multi-accelerator MoE expert distribution architecture
+US 2025/0068207 A1,retained,development,Y,
+US 2009/0070661 A1,excluded_far,development,N,NONE
+US 11562201 B2,retained,development,N,NONE
+US 12141688 B2,retained,development,Y,Neuromorphic / resistive memory device
+US 2022/0327376 A1,retained,development,N,NONE
+US 8712752 B2,excluded_near,development,N,NONE
+US 2021/0349689 A1,retained,development,Y,Compute-in-memory (CIM) array / analog neural-computing memory
+US 12205036 B2,retained,development,Y,Dedicated neural-network backpropagation accelerator with DMA and distributed compute modules
+US 7146467 B2,excluded_near,development,N,NONE
+US 10074050 B2,retained,development,Y,Memristive neuromorphic neural-network circuit
+US 11948657 B2,excluded_near,development,N,NONE
+US 9625992 B2,excluded_far,development,N,NONE
+US 11854258 B1,excluded_near,development,N,NONE
+US 12380333 B2,retained,held-out,N,NONE
+US 12278573 B2,retained,held-out,Y,Triboelectric / friction-nano synaptic transistor neuromorphic device
+US 10971200 B2,retained,held-out,Y,Memory-based / in-memory computing semiconductor circuit
+US 2024/0272796 A1,excluded_near,held-out,N,NONE
+US 2024/0160918 A1,retained,held-out,N,NONE
+US 11599771 B2,retained,held-out,Y,Crossbar-array recurrent neural-network architecture
+US 2020/0244622 A1,excluded_near,held-out,N,NONE
+US 5519811 A,retained,held-out,Y,Analog neural-network processor / MOS analog systolic array
+US 2022/0076115 A1,retained,held-out,Y,Multi-accelerator distributed neural-network training architecture
+US 11562212 B2,retained,held-out,Y,Compute-in-memory (CIM) / neural-network accelerator
+US 10706079 B2,excluded_far,held-out,N,NONE
+US 2020/0202201 A1,retained,held-out,Y,Neural-network accelerator / heterogeneous operation circuits
+US 9779355 B1,retained,held-out,Y,Compute-in-memory / crosspoint array / analog neural accelerator
+US 10885430 B2,retained,held-out,Y,Neuromorphic / memristor-based analog computing
+US 11378915 B2,retained,held-out,Y,Photonic AI / optical neural-network accelerator
+US 11775805 B2,retained,held-out,Y,AI accelerator / specialized arithmetic circuit
+US 10860083 B2,excluded_near,held-out,N,SoC / power-management architecture
+US 9678684 B2,excluded_near,held-out,N,Non-volatile memory / storage controller
+US 10488907 B2,excluded_near,held-out,N,Power-failure / nonvolatile-memory system
+US 7242581 B2,excluded_near,held-out,N,CPU liquid-cooling system
+US 2022/0366217 A1,retained,held-out,Y,DNN accelerator / heterogeneous computing architecture
+US 12072738 B2,excluded_near,held-out,N,Flexible/rollable display hardware
+US 2021/0342730 A1,retained,held-out,Y,Quantum-enhanced neural-network accelerator / quantum computing
+US 11222138 B2,retained,held-out,N,Privacy-preserving distributed ML / 3PC computing
+US 8676734 B2,retained,held-out,Y,Neuroprocessor + replaceable synaptic memory
+US 2009/0125750 A1,excluded_near,held-out,N,Multi-port memory / data-transfer architecture
+US 6490674 B1,excluded_near,held-out,N,CPU instruction pipeline / hazard detection architecture
+US 11886968 B2,excluded_near,held-out,Y,Autonomous-vehicle vision / AI perception system
+US 9906360 B2,excluded_near,held-out,N,Software/code obfuscation and cybersecurity
+US 5269016 A,excluded_far,held-out,N,Fault-tolerant / Byzantine-resilient computing architecture
+US 8000101 B2,excluded_near,held-out,N,Liquid-cooling / thermal-management hardware
+US 11900184 B2,retained,held-out,Y,Analog compute-in-memory / MAC accelerator
+US 11669722 B2,retained,held-out,Y,AI-enabled refrigerator / edge AI vision system
+US 9594878 B2,excluded_near,held-out,N,Medical AI / diagnosis software
+US 2024/0037382 A1,retained,held-out,Y,Photonic neural-network accelerator / optical computing
+US 2021/0406642 A1,retained,held-out,N,Neural-network software for game analytics
+US 2023/0267285 A1,retained,held-out,N,Neural machine translation / NLP software
+US 10387769 B2,retained,held-out,Y,Neuromorphic / oscillatory-memory neural-network architecture
+US 9323316 B2,excluded_near,held-out,N,Multicore CPU power/frequency management
+US 2025/0077430 A1,excluded_near,held-out,N,Multicore processor cache/coherency and snoop-tracking architecture
+US 2008/0226165 A1,excluded_far,held-out,N,Image-processing / color-management software architecture
+US 11556450 B2,retained,held-out,Y,Distributed / parallel neural-network accelerator architecture
+US 11763147 B2,retained,held-out,Y,AI-aware memory/cache architecture
+US 5796705 A,excluded_near,held-out,N,CD-ROM / PC peripheral interface architecture
+US 2022/0171605 A1,retained,held-out,Y,Systolic-array matrix computation accelerator
+US 2023/0004775 A1,retained,held-out,Y,FPGA-based dedicated neural-network accelerator
+US 2025/0173548 A1,retained,held-out,N,Deep-learning model transformation / optimization
+US 2022/0083807 A1,retained,held-out,N,Generative AI / synthetic-image processing
+US 7221462 B2,retained,held-out,Y,Neural-network-enabled optical sensing / neuromorphic input hardware
+US 6262604 B1,excluded_near,held-out,N,Digital signal processing / frequency synthesizer
+US 9047423 B2,excluded_near,held-out,N,AI/ML planning and reinforcement-learning software
+US 7568152 B1,excluded_far,held-out,N,Text processing / document parsing software
+US 12198036 B2,retained,held-out,Y,Resistive-memory / memristive neuromorphic crossbar
+US 11875785 B2,retained,held-out,N,Conversational AI / speech-processing system
+US 12412022 B2,excluded_near,held-out,N,NLP / visual text summarization system
+US 2021/0192353 A1,retained,held-out,Y,Neural-network training processor / accelerator with compressed-weight memory access
+US 11281961 B2,retained,held-out,Y,Oscillatory Neural Network (ONN) / oscillator-based neuromorphic hardware
+US 6250932 B1,excluded_near,held-out,N,NONE
+US 5103112 A,excluded_near,held-out,N,NONE
+US 10514932 B2,excluded_far,held-out,N,NONE
+US 2023/0397504 A1,retained,held-out,Y,Spintronic / Magnetic Tunnel Junction (MTJ) neuron; neuromorphic hardware
+US 10908879 B2,retained,held-out,Y,Neural-network accelerator / Vector MAC (multiply-accumulate) architecture
+US 11080593 B2,retained,held-out,Y,Silicon neural-network processor / Neuro-block architecture
+US 7246012 B2,excluded_near,held-out,N,NONE
+US 10109041 B2,excluded_far,held-out,N,NONE
+US 11821128 B2,excluded_near,held-out,N,NONE
+US 2011/0185128 A1,excluded_near,held-out,N,NONE
+US 12073311 B2,retained,held-out,Y,Analog neuromorphic / synaptic circuit
+US 11126549 B2,retained,held-out,Y,Hardware logical engine / data-parallel accelerator
+US 10997490 B2,retained,held-out,Y,Resistive / memristive synaptic device
+US 2024/0061711 A1,retained,held-out,Y,Heterogeneous AI accelerator / shared arithmetic-unit architecture
+US 2020/0257959 A1,retained,held-out,Y,In-memory / memory-integrated AI computation
+US 11281519 B2,excluded_near,held-out,N,NONE
+US 12373679 B2,retained,held-out,Y,
+US 6963985 B2,excluded_near,held-out,N,NONE
+US 2022/0358345 A1,retained,held-out,Y,In-memory / crossbar neural-network accelerator
+US 2011/0093472 A1,excluded_far,held-out,N,NONE
+US 11003592 B2,retained,held-out,N,NONE
+US 7403884 B2,excluded_far,held-out,N,NONE
+US 2023/0316143 A1,excluded_near,held-out,N,NONE

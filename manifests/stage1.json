@@ -1,0 +1,42 @@
+{
+  "stage": 1,
+  "timestamp": "2026-08-07T16:26:33.441614",
+  "runtime_sec": 171.759882,
+  "n_folder_app": 1502900,
+  "n_folder_grant": 2149264,
+  "n_publications": 2148649,
+  "n_inventions": 1208932,
+  "double_counted_inventions": 587275,
+  "corpus_mode": "invention",
+  "jurisdiction_filter": "US",
+  "dedup_level": "family",
+  "retained": 7464,
+  "retention_pct_of_inventions": 0.6174044528559092,
+  "tier1": 9390,
+  "tier2": 0,
+  "tier1_prefixes": [
+    "G06N3/06"
+  ],
+  "hw_cpc_prefixes": [
+    "G06F9/30",
+    "G06F9/38",
+    "G06F7/",
+    "G06F1/",
+    "G06F13/",
+    "G06F15/76",
+    "G06F15/78",
+    "G06F15/80",
+    "G06F15/82",
+    "G06F12/",
+    "G11C",
+    "H10N",
+    "H01L",
+    "H03K",
+    "H03M",
+    "G06E",
+    "G06G"
+  ],
+  "ai_mechanism_enabled": true,
+  "hw_weak_only_excluded": 194987,
+  "shared_columns": 25
+}

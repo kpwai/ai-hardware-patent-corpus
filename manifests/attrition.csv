@@ -1,0 +1,9 @@
+step,n,pct_of_raw
+Raw publications (applications + grants),2148649,100.0
+Inventions after dedup (mode=invention),1208932,56.26475054790242
+  satisfies AI condition,122008,5.67835881989101
+  satisfies hardware condition,237941,11.073981836958945
+  Carries G06N3/06,9390,0.43701879646233516
+  ...with text corroboration,7471,0.34770686138126794
+  Tier 2 (disabled),0,0.0
+RETAINED AI HARDWARE CORPUS,7464,0.34738107527101914

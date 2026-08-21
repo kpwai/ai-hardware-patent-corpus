@@ -1,0 +1,15 @@
+{
+  "stage": 2,
+  "timestamp": "2026-08-09T12:01:33.639759",
+  "model": "AI-Growth-Lab/PatentSBERTa",
+  "dim": 768,
+  "n_records": 7464,
+  "normalized": true,
+  "max_seq_length": 256,
+  "batch_size": 256,
+  "device": "cuda",
+  "gpu": "NVIDIA RTX 6000 Ada Generation",
+  "runtime_min": 0.319291357199351,
+  "docs_per_sec": 389.6128009576229,
+  "empty_texts": 0
+}
