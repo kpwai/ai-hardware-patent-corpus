@@ -172,7 +172,7 @@ the intuitive rule were routinely satisfied without either being true.
 @inproceedings{aihw2026,
   title     = {Measuring AI Hardware Innovation: Corpus Construction,
                Validation, and Measurement Bias},
-  author    = {Khaing Phyo Wai and Lin Ma and Pao-Li Chang},
+  author    = {Khaing Phyo Wai and Pao-Li Chang},
   booktitle = {IEEE International Conference on Big Data},
   year      = {2026},
   note      = {Under review}
