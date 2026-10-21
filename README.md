@@ -175,7 +175,7 @@ the intuitive rule were routinely satisfied without either being true.
   author    = {Khaing Phyo Wai and Pao-Li Chang},
   booktitle = {IEEE International Conference on Big Data},
   year      = {2026},
-  note      = {Under review}
+  note      = {Accepted}
 }
 ```
 
